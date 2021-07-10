@@ -1,2 +1,3 @@
-# CodeIgniter_CRUD_PHP
-Deskripsi
+# Tutorial CRUD PHP CodeIgniter
+
+by Yan Ridwan
